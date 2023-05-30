@@ -1,0 +1,14 @@
+git init 
+git status
+git commit -m"welcome to gihub"
+git add third.text
+git  config --global user.email"sai@gmail.com"
+git  config --global user.name"saiPavan"
+git commit --global
+open to github.com and create repository and give the project name click on the create repository
+copy this below command
+git remote add origin https://github.com/SaipavanMaddala/firstproject.git
+paste the git bush
+and again copy the one more command
+git push -u origin main
+and this command edit the branch name master  
